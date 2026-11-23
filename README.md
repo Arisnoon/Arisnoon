@@ -4,7 +4,7 @@
   <b>AI Engineer | NLP Researcher | Technical Speaker</b>
 </p>
 
-> <p align="center"><i>"Where you put the space matters."</i></p>
+> <p align="center"><i>"It's fun to do the impossible."</i></p>
 
 <p align="center">
   <a href="https://neurips.cc/virtual/2026/loc/sydney/163674"><img src="https://img.shields.io/badge/NeurIPS%202026-7B3FE4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="NeurIPS 2026" /></a>
